@@ -9,6 +9,8 @@
 #include "GameFramework/Controller.h"
 #include "GameFramework/SpringArmComponent.h"
 
+#include "PuzzlePlatformsGameInstance.h"
+
 //////////////////////////////////////////////////////////////////////////
 // APuzzlePlatformsCharacter
 
